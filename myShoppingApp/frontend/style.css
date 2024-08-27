@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    margin-bottom: 20px;
+  }
+  
+  #clothes-list .clothes-item {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .clothes-item img {
+    width: 100%;
+    height: auto;
+  }
+  
